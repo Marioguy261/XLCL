@@ -1,0 +1,25 @@
+{
+    "id": 27630,
+    "name": "cove.",
+    "author": "reject",
+    "creators": ["reject", "turtlegammaster"],
+    "verifier": "reject",
+    "verification": "https://www.youtube.com/watch?v=ZFLuoPn2kgc",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+        "user": "150IQPlayer",
+        "percent": 100
+        },
+        {
+        "user": "Bruger",
+        "percent": 100
+        },
+        {
+        "user": "Quackanilla",
+        "percent": 100
+        }
+        
+    ]
+}
