@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "name": "Sample 1",
+    "author": "author",
+    "creators": "creator",
+    "verifier": "verifier",
+    "verification": "https://medal.tv/games/requested/clips/mdhAEPPKY8YPW4si9?invite=cr-MSxXaFYsNTYzMTc3MjEw",
+    "percentToQualify": 56,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "Victor 1",
+            "link": "https://medal.tv/games/requested/clips/mdhAEPPKY8YPW4si9?invite=cr-MSxXaFYsNTYzMTc3MjEw",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
